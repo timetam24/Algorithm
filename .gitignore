@@ -1,0 +1,7 @@
+.vscode/
+input.txt
+node_modules/
+dist/
+*.js.map
+*.log
+.DS_Store
