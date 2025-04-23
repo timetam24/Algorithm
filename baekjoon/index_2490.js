@@ -38,3 +38,4 @@ const getResult = (array) => {
 console.log(getResult(firstArray));
 console.log(getResult(secondArray));
 console.log(getResult(thirdArray));
+// 시간 복잡도: O(1)

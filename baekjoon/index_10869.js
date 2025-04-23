@@ -16,3 +16,4 @@ const div = Math.floor(firstValue / secondValue);
 const mod = firstValue % secondValue;
 
 console.log(`${sum}\n${sub}\n${mul}\n${div}\n${mod}`);
+// 시간 복잡도: O(1)

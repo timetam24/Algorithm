@@ -11,3 +11,4 @@ const isLeapYear = (year) => {
 };
 
 console.log(isLeapYear(+input) ? 1 : 0);
+// 시간 복잡도: O(1)

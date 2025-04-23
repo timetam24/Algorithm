@@ -17,3 +17,4 @@ if (set.size === 1) {
 } else {
   console.log(Math.max(a, b, c) * 100);
 }
+// 시간 복잡도: O(1)

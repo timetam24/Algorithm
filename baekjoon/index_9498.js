@@ -21,3 +21,4 @@ if (input >= 90 && input <= 100) {
   score = "F";
 }
 console.log(score);
+// 시간 복잡도: O(1)

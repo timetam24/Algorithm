@@ -24,3 +24,4 @@ for (let i = 0; i < N; i++) {
 }
 
 console.log(result.join(` `));
+// 시간 복잡도: O(N)

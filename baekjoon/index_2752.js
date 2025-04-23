@@ -8,3 +8,4 @@ let input = fs.readFileSync(filePath).toString().split(` `);
 
 const array = input.map(Number).sort((a, b) => a - b);
 console.log(array.join(` `));
+// 시간 복잡도: O(N log N)

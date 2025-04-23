@@ -17,3 +17,4 @@ if (oddNumbers.length === 0) {
   console.log(oddNumbers.reduce((acc, cur) => acc + cur, 0));
   console.log(Math.min(...oddNumbers));
 }
+// 시간 복잡도: O(N)

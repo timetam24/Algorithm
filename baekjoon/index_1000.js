@@ -8,3 +8,4 @@ let input = fs.readFileSync(filePath).toString().split(` `);
 
 const sum = +input[0] + +input[1];
 console.log(sum);
+// 시간 복잡도: O(1)
